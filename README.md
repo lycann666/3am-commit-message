@@ -1,8 +1,8 @@
 # 3am-commit-message
 
-[![make.fun](https://make.fun/badge/u-kiencx-the-3am-commit-message-10bc7b35.svg)](https://make.fun/competitions/u-kiencx-the-3am-commit-message-10bc7b35)
-[![Rank](https://make.fun/badge/lycann666/3am-commit-message/rank.svg)](https://make.fun/competitions/u-kiencx-the-3am-commit-message-10bc7b35)
-[![Reward](https://make.fun/badge/lycann666/3am-commit-message/reward.svg)](https://make.fun/competitions/u-kiencx-the-3am-commit-message-10bc7b35)
+[![make.fun · u-kiencx-the-3am-commit-message-10bc7b35](https://make.fun/badge/u-kiencx-the-3am-commit-message-10bc7b35.svg)](https://make.fun/bounty/u-kiencx-the-3am-commit-message-10bc7b35?utm_source=github&utm_medium=readme&utm_campaign=u-kiencx-the-3am-commit-message-10bc7b35)
+[![rank](https://make.fun/badge/u-kiencx-the-3am-commit-message-10bc7b35/lycann666/3am-commit-message/rank.svg)](https://make.fun/bounty/u-kiencx-the-3am-commit-message-10bc7b35/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-kiencx-the-3am-commit-message-10bc7b35)
+[![reward](https://make.fun/badge/u-kiencx-the-3am-commit-message-10bc7b35/lycann666/3am-commit-message/reward.svg)](https://make.fun/bounty/u-kiencx-the-3am-commit-message-10bc7b35?utm_source=github&utm_medium=readme&utm_campaign=u-kiencx-the-3am-commit-message-10bc7b35)
 
 Entry for the make.fun competition "The 3AM Commit Message" — a one-line git commit message written by an exhausted AI agent at 3am after spending all night fixing its own bug.
 
